@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.div1{
+    background-image: url(image1.png);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.height{
+    height: 280px;
+}
+.text1{
+    display: flex;
+    justify-content: center;
+}
+.text1 h1{
+    width: 340px;
+    background-color:#313534;
+    color: white;
+    padding: 15px;
+    font-size: 27px;
+    letter-spacing: 3px
+    
+}
+.div2{
+    width: 100%;
+    height: 40vh;
+    background-color: white;
+}
+.text2{
+    justify-content: center;
+    align-items: center;
+    color: grey;
+    
+}
+.text2 p{
+    text-align: center;
+}
+.text2 h2{
+    text-align: center;
+}
+.img-2{
+    background-image: url(image2.png);
+    width: 100%;
+    height: 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.text3{
+    width: 340px;
+    background-color:#313534;
+    color: white;
+    padding: 15px;
+    font-size: 30px;
+    letter-spacing: 3px;
+    display: flex;
+    justify-content: center; 
+    margin-left: 574px;
+    position: absolute;
+    top: 1130px;
+      
+}
+.text4{
+    justify-content: center;
+    align-items: center;
+    color: white;
+    position: absolute;
+    left: 0px;
+    top: 1300px;
+    background-color: #313534;
+    height: 239px;
+    width: 1519px;
+}
+.text4 p{
+    text-align: center;
+}
+.text4 h2{
+    text-align: center;
+
+}
+.img-3{
+    background-image: url(image3.png);
+    width: 100%;
+    height: 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.text5{
+    width: 655px;
+    background-color:#313534;
+    color: white;
+    padding: 16px;
+    font-size: 29px;
+    letter-spacing: 10px;
+    display: flex;
+    justify-content: center; 
+    margin-left: 437px;
+    position: absolute;
+    top: 1691px; 
+}
+.text6{
+        justify-content: center;
+        align-items: center;
+        color: white;
+        position: absolute;
+        left: 0px;
+        top: 1916px;
+        background-color: #313534;
+        height: 239px;
+        width: 1519px;
+    }
+    .text6 p{
+        text-align: center;
+    }
+    .text6 h2{
+        text-align: center;
+}
+.img-4{
+    background-image: url(image1.png);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.text7{
+    width: 655px;
+    background-color:#313534;
+    color: white;
+    padding: 16px;
+    font-size: 29px;
+    letter-spacing: 10px;
+    display: flex;
+    justify-content: center; 
+    margin-left: 437px;
+    position: absolute;
+    top: 500px; 
+}
